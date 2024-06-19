@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Harrison (@grilledbeez)
 - 👀 I’m interested in hardware & software engineering, cybersecurity, and artificial intelliigence.
 - 🌱 I’m currently learning JavaScript & software tech
+- 👾 Education: APCSA, APCSP, Intro to Software Tech | 
 - 🤔 Vision Statement: I love the ever-developing technologies in todays world and want to be part of its future
 - 💞️ I’m looking to collaborate on App Developement projects
 - 📫 How to reach me Email or Phone
